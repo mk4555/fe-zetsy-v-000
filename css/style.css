@@ -55,7 +55,7 @@ p {
 
 #press img:hover{
 	border: 5px rgb(111,127,122) solid;
-	cursor: hand;
+	cursor: pointer;
 }
 footer p{
 	text-align: right;
